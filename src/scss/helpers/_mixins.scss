@@ -1,0 +1,13 @@
+@mixin mini-box($bg-color) {
+    background-color: $bg-color;
+    border-radius: 5px;
+    padding: 1.5rem 2.25rem;
+    margin-bottom: 1.75rem;
+    margin-right: 1.75rem;
+  }
+
+  @mixin flex-styles($direction-style, $align-style) {
+    display: flex;
+    flex-direction: $direction-style;
+    align-items: $align-style;
+}
