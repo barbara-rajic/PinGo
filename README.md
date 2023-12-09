@@ -12,10 +12,12 @@ PinGo is a workout app designed to help users track their cycling or running act
 ### Screenshots
 
 **Interactive Point Selection**
-![Click and select](/src/img/Click-map.png){:width="500px" height="300px"}
+<br>
+<img src="/src/img/click-map.png" width="500" height="300">
 
 **Saved Workouts**
-![Stored workouts](/src/img/Storage-map.png){:width="500px" height="300px"}
+<br>
+<img src="/src/img/storage-map.png" width="500" height="300">
 
 ### Development
 
