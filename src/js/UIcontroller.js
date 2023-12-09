@@ -40,11 +40,10 @@ export default class Form {
 
     #clearInputs() {
         // Clear input fields
-      this.#duration.value =
-      this.#distance.value =
-      this.#cadence.value =
-      this.#elevation.value =
-        "";
+      this.#duration.value = "";
+      this.#distance.value = "";
+      this.#cadence.value = "";
+      this.#elevation.value = "";
     }
 
     hidde() { // Hidde form
